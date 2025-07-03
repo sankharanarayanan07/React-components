@@ -16,13 +16,9 @@ This is how React knows it's a component and **not** a regular HTML tag.
 
 ---
 
-## 🛠️ Example
+## 🧪 My Work on Components
 
-```jsx
-// ✅ A simple functional component
-function Welcome() {
-  return <h1>Hello, React!</h1>;
-}
+Here is some of my work on components — demonstrating the use of custom React elements, reusable layouts, and component-based design.
 
-// Using the component
-<Welcome />
+Feel free to explore the files and folders in this repository to see the components I’ve built.
+I’ve worked on both basic and intermediate-level components to better understand how React works in real projects.
