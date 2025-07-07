@@ -21,4 +21,11 @@ This is how React knows it's a component and **not** a regular HTML tag.
 Here is some of my work on components — demonstrating the use of custom React elements, reusable layouts, and component-based design.
 
 Feel free to explore the files and folders in this repository to see the components I’ve built.
-I’ve worked on both basic and intermediate-level components to better understand how React works in real projects.
+I’ve worked on basic-level components to better understand how React works in real projects.
+
+---
+
+## 🔗 Live Demo
+
+👉 [Click here to view the live app](https://react-components-eight-kappa.vercel.app/)
+
